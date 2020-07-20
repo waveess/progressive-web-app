@@ -16,8 +16,8 @@
 This project is licensed under MIT.
 
 ## 3. URL
+https://pwa-applicationn.herokuapp.com/
 
-https://budget-trackerrr.herokuapp.com/
 
 ## 4. Contributing
 Rawan Fatima
